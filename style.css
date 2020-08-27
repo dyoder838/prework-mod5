@@ -1,0 +1,51 @@
+h1 {
+  text-align: center
+}
+
+.red { 
+  color: red;
+}
+
+.blue { 
+  color: blue;
+}
+
+.green { 
+  color: green;
+}
+
+.font-size-32 {
+  font-size: 32px;
+}
+
+.font-size-8 {
+  font-size: 8px;
+}
+
+.center {
+  text-align: center
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.font-family-arial {
+  font-family: arial;
+}
+
+.orange {
+  color: orange;
+}
+
+.styledFont {
+  font-style: italic;
+}
+
+#styledImage {
+  border: 8px solid #ddd;
+  border-radius: 4px;
+  border-color: darkblue;
+  padding: 15px;
+  width: 600px;
+}
